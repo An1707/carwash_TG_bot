@@ -1,3 +1,3 @@
-TOKEN = "7637798171:AAGybTfxcWt93kSIbpoZQWnvDRVLD7TgvsE"
+TOKEN = 
 DB_PATH = "car_wash.db"
 
